@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\EmployeeAttendance1\bin\Debug\netcoreapp3.1\EmployeeAttendance1.exe
+C:\Users\md048\source\repos\EmployeeAttendance1\bin\Debug\netcoreapp3.1\EmployeeAttendance1.deps.json
+C:\Users\md048\source\repos\EmployeeAttendance1\bin\Debug\netcoreapp3.1\EmployeeAttendance1.runtimeconfig.json
+C:\Users\md048\source\repos\EmployeeAttendance1\bin\Debug\netcoreapp3.1\EmployeeAttendance1.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EmployeeAttendance1\bin\Debug\netcoreapp3.1\EmployeeAttendance1.dll
+C:\Users\md048\source\repos\EmployeeAttendance1\bin\Debug\netcoreapp3.1\EmployeeAttendance1.pdb
+C:\Users\md048\source\repos\EmployeeAttendance1\obj\Debug\netcoreapp3.1\EmployeeAttendance1.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\EmployeeAttendance1\obj\Debug\netcoreapp3.1\EmployeeAttendance1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EmployeeAttendance1\obj\Debug\netcoreapp3.1\EmployeeAttendance1.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EmployeeAttendance1\obj\Debug\netcoreapp3.1\EmployeeAttendance1.AssemblyInfo.cs
+C:\Users\md048\source\repos\EmployeeAttendance1\obj\Debug\netcoreapp3.1\EmployeeAttendance1.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EmployeeAttendance1\obj\Debug\netcoreapp3.1\EmployeeAttendance1.dll
+C:\Users\md048\source\repos\EmployeeAttendance1\obj\Debug\netcoreapp3.1\EmployeeAttendance1.pdb
+C:\Users\md048\source\repos\EmployeeAttendance1\obj\Debug\netcoreapp3.1\EmployeeAttendance1.genruntimeconfig.cache
