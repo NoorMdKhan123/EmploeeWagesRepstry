@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.exe
+C:\Users\md048\source\repos\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.deps.json
+C:\Users\md048\source\repos\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.runtimeconfig.json
+C:\Users\md048\source\repos\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.dll
+C:\Users\md048\source\repos\EmpWageSwitchCase\bin\Debug\netcoreapp3.1\EmpWageSwitchCase.pdb
+C:\Users\md048\source\repos\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.AssemblyInfo.cs
+C:\Users\md048\source\repos\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.dll
+C:\Users\md048\source\repos\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.pdb
+C:\Users\md048\source\repos\EmpWageSwitchCase\obj\Debug\netcoreapp3.1\EmpWageSwitchCase.genruntimeconfig.cache
