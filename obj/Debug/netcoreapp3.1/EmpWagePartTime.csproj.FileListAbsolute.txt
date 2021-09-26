@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.exe
+C:\Users\md048\source\repos\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.deps.json
+C:\Users\md048\source\repos\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.runtimeconfig.json
+C:\Users\md048\source\repos\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.dll
+C:\Users\md048\source\repos\EmpWagePartTime\bin\Debug\netcoreapp3.1\EmpWagePartTime.pdb
+C:\Users\md048\source\repos\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.AssemblyInfo.cs
+C:\Users\md048\source\repos\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.dll
+C:\Users\md048\source\repos\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.pdb
+C:\Users\md048\source\repos\EmpWagePartTime\obj\Debug\netcoreapp3.1\EmpWagePartTime.genruntimeconfig.cache
